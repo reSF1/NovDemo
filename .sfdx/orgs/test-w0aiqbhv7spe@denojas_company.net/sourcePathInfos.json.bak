@@ -1,0 +1,182 @@
+[
+    [
+        "/Users/denojas/NovDemo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511132974000,
+            "changeTime": 1511132974000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511132974000,
+            "changeTime": 1511132974000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511132974000,
+            "changeTime": 1511132974000,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "ffefd64366e3ad4943f1affc820be7c1d29d5027",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "47f315a5b5250a9c43858f8006e8ff6dbe4cbe89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1511133825000,
+            "changeTime": 1511133825000,
+            "contentHash": "07d8a11718e7d54a00e3c9bcf97afd8bb6894aa8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "53598cf64ae80f5d54e49943926dff574fd01377",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemoHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemoRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo/force-app/main/default/aura/NovDemo/NovDemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1511133220000,
+            "changeTime": 1511133220000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/NovDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/NovDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1511133037000,
+            "changeTime": 1511133037000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
