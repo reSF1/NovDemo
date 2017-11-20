@@ -1,0 +1,347 @@
+[
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 874,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "6c73e797936de474b85c7ec067d0a69ad378c5c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "ffefd64366e3ad4943f1affc820be7c1d29d5027",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "47f315a5b5250a9c43858f8006e8ff6dbe4cbe89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "07d8a11718e7d54a00e3c9bcf97afd8bb6894aa8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "53598cf64ae80f5d54e49943926dff574fd01377",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemoHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemoRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/aura/NovDemo/NovDemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "65c99df81b0ce787ba5ea4b45e6a6b89013b8c6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/flexipages/NovDemo.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/flexipages/NovDemo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 703,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "c4fe735ec14ea9d5596ce1258f356e930ece51de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17101,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "1d44650746b83e349fc0dd8cb063aa5272a9ffb2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4403,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "9d8b32bd7d61c1f2b7f2fa82d40c3b9d4fbd050d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4403,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "9d8b32bd7d61c1f2b7f2fa82d40c3b9d4fbd050d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4741,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "f2c1969f9e7f2fd46fc505115f782a1c7dfa27a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "e27c270a8fe5e44e5f7a6ec7c5d6cb6b41549ff6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/tabs/NovDemo.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo/force-app/main/default/tabs/NovDemo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "f56d5c8a27f1c241df555de139257b3eeedf5472",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NovDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/denojas/Documents/SFDX/NovDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511137059000,
+            "changeTime": 1511137059000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
